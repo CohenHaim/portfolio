@@ -1,8 +1,9 @@
 import { builder } from "@builder.io/sdk";
 import { RenderBuilderContent } from "../../components/builder";
+import { env } from "~/env";
 
 // Replace with your Public API Key
-builder.init(YOUR_API_KEY);
+builder.init(env.NEXT_PUBLIC_BUILDERIO_API_KEY);
 
 interface PageProps {
   params: {
