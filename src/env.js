@@ -16,7 +16,7 @@ export const env = createEnv({
    * `NEXT_PUBLIC_`.
    */
   client: {
-    NEXT_PUBLIC_BUILDERIO_API_KEY z.string(),
+    NEXT_PUBLIC_BUILDERIO_API_KEY: z.string(),
   },
 
   /**
