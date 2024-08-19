@@ -1,6 +1,6 @@
 import { builder } from "@builder.io/sdk";
 import type { BuilderContent } from "@builder.io/sdk";
-import { RenderBuilderContent } from "../../components/builder";
+import { RenderBuilderContent } from "../components/builder";
 import { env } from "~/env";
 
 builder.init(env.NEXT_PUBLIC_BUILDERIO_API_KEY);
