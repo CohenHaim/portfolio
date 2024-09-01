@@ -1,0 +1,7 @@
+@media only screen and (max-width: 768px) {
+  .mobile-content {
+    margin-left: 70px; /* Adjust this value based on your menu width */
+    padding: 10px;
+    text-align: center; /* Centering the content */
+  }
+}
