@@ -197,24 +197,30 @@ export function Home() {
             <Image
               src="/hc_pfp.png"
               alt="Profile Picture"
-              width={120}
-              height={120}
+              width={180}
+              height={180}
               className="rounded-full object-cover"
             />
             <div>
               <h1 className="text-4xl font-bold">Haim Cohen</h1>
               <p className="mt-4 text-lg text-muted-foreground">
-                Data Scientist with 5+ years of experience in AI and machine
-                learning, Specializing in developing and deploying advanced
-                models such as LLMs, CNNs, Diffusers, and more. Proven expertise
-                in the gaming, sales and fintech startups, including co-founding
-                ThetaMind. Experienced in full-stack development with a strong
-                focus on Python, data analysis, and cloud-based infrastructures.
-                Adept at enhancing model accuracy, performance, and scalability
-                through research and practical application of statistical
-                analysis, machine learning, and deep learning techniques.
-                Committed to solving complex problems and advancing AI-driven
-                solutions in dynamic environments.
+                Hi, I’m Haim—a Data Scientist and Machine Learning Engineer with
+                over five years of experience in developing AI tools that make a
+                tangible impact.
+                <br />
+                <br />
+                I’ve had the chance to work across gaming, business
+                communication, and fintech, where I’ve focused on applying my
+                expertise in machine learning and data analysis to create
+                systems that are both practical and reliable. I love diving into
+                complex challenges, no matter the field. Whether it's exploring
+                new technologies or optimizing existing systems, I’m all about
+                hands-on work, collaboration, and continuous learning.
+                <br />
+                <br />
+                My goal is simple: to build solutions that work and make a real
+                difference. If there’s a challenge ahead, I’m ready to tackle it
+                head-on.
               </p>
             </div>
           </div>
@@ -434,14 +440,14 @@ export function Home() {
               </div>
               <div className="rounded-lg bg-muted p-6">
                 <p className="text-lg italic">
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum."
+                  It’s hard to do Haim justice with such few characters, but the
+                  first words that come to mind are selfless, dedicated, and
+                  extremely trustworthy. I hired Haim as an entry-level python
+                  engineer and grew to be one of the most phenomenal engineers
+                  on our team. His drive and hustle, paired with his infectious
+                  passion for gaming and code, made for a winning combo, and he
+                  shows no signs of slowing down. It’s been a true honor to work
+                  side by side with him, I highly recommend him!
                 </p>
                 <div className="mt-4 flex items-center gap-4">
                   <Avatar>
