@@ -416,14 +416,20 @@ export function Home() {
             <div className="mt-8 space-y-8">
               <div className="rounded-lg bg-muted p-6">
                 <p className="text-lg italic">
-                  "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-                  irure dolor in reprehenderit in voluptate velit esse cillum
-                  dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-                  cupidatat non proident, sunt in culpa qui officia deserunt
-                  mollit anim id est laborum."
+                  Haim is one of those rare talents who brings both deep
+                  technical expertise and a genuine passion for innovation to
+                  the table. From day one at Substrata, he was more than just a
+                  brilliant engineer—he was a driving force that energized our
+                  team. His ability to turn complex ideas into practical,
+                  impactful solutions is something that still impresses me.
+                  Beyond his technical skills, Haim has a knack for fostering a
+                  culture of curiosity and continuous learning. He doesn’t just
+                  solve problems; he inspires those around him to reach higher
+                  and think bigger. Working with Haim was not just productive—it
+                  was genuinely fun, and I’m excited to see where his journey
+                  takes him next. Wherever Haim goes, he’s sure to make a big
+                  impact, and I’m eager to see what he’ll accomplish in the
+                  future.
                 </p>
                 <div className="mt-4 flex items-center gap-4">
                   <Avatar>
